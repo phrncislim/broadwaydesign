@@ -18,12 +18,12 @@ h3 {
   font-weight: bold;
 }
 
-.titlebanner {
-  background-image: url(./resources/images/the-flatiron-building.png);
+.hero {
+  background-image: url('file:///Users/Francis/Dropbox/Code%20Academy/projects/broadwaydesign/resources/images/the-flatiron-building.png');
 }
 
-.secondbanner {
-  background-image: url(./resources/images/the-flatiron-building.png);
+.banner {
+  background-image: url('../resources/images/the-flatiron-building.png');
 }
 
 .footer {
