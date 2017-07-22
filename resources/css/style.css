@@ -1,6 +1,7 @@
 html {
   text-align: center;
   font-family: helvetica, sans-serif;
+  font-size: 14px;
 }
 
 h1 {
@@ -19,11 +20,21 @@ h3 {
 }
 
 .hero {
-  background-image: url('file:///Users/Francis/Dropbox/Code%20Academy/projects/broadwaydesign/resources/images/the-flatiron-building.png');
+  background-image: url('../images/the-flatiron-building.png');
+  color: white;
+}
+
+.hero a {
+  font-size: 18px;
+}
+
+a {
+  color: white;
 }
 
 .banner {
-  background-image: url('../resources/images/the-flatiron-building.png');
+  background-image: url('../images/the-flatiron-building.png');
+  color: white;
 }
 
 .footer {
